@@ -1,0 +1,10 @@
+Variables Description
+												
+ws_5m_s       :	Wind Speed 5 meters above the tower in South direction (mph)						
+ws_5m_nw      :	Wind Speed 5 meters above the tower in North West direction (mph) 						
+winddir_5m_s  :	Wind Direction 5 metres above the tower in South direction (degree)						
+winddir_5m_nw :	Wind Direction 5 metres above the tower in North West direction (degree)						
+rh_5m         :	Relative humidity 5 meters above the tower in South direction 						
+airtc_5m      :	Air temperature 5 meters above the tower in South direction 						
+							
+The data for the above variables is gathered for 5, 10, 20, 40, 80 and 120 meters above the tower.							
