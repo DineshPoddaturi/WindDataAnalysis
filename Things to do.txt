@@ -1,0 +1,13 @@
+Northwest and South directions
+
+5 meters, 40 meters, 120 meters
+
+Average data for every 5 seconds
+
+70% Training, 30% testing
+
+Stationarity test
+
+Find RMSE
+
+
